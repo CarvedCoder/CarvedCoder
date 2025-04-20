@@ -16,7 +16,7 @@
   <a href="https://kaggle.com/carvedcoder">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
   </a>
-  <a href="https://leetcode.com/yourprofile/">
+  <a href="https://leetcode.com/u/Shreyans_Behera/">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">
   </a>
 </p>
@@ -65,6 +65,6 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://linkedin.com/in/shreyans-behera-653aa5337">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
