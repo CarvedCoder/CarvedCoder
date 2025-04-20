@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm CarvedCoder</h1>
+<h1 align="center">Hi , I'm CarvedCoder</h1>
 <h3 align="center">Passionate Data Scientist | AI Engineer | Insight Extractor</h3>
 
 <!-- Dynamic Typing SVG -->
