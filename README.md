@@ -10,14 +10,11 @@
 
 <!-- Social & Platform Badges -->
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://linkedin.com/in/shreyans-behera-653aa5337">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://kaggle.com/yourprofile">
+  <a href="https://kaggle.com/carvedcoder">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
-  </a>
-  <a href="https://medium.com/@yourprofile">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
   </a>
   <a href="https://leetcode.com/yourprofile/">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">
@@ -61,18 +58,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarvedCoder&layout=compact&theme=radical&hide_border=true&bg_color=00000000&hide=html,css,scss,php&langs_count=6">
 </p>
 
-## Latest Data Science Articles
-<!-- Medium RSS Feed -->
-- 🔍 [Feature Engineering Best Practices](https://medium.com/p/12345)
-- 📊 [Optimizing Hyperparameters with Optuna](https://medium.com/p/67890)
-- 🤖 [Building Explainable AI Systems](https://medium.com/p/45678)
 
 ## Let's Connect
 <p align="center">
-  <a href="mailto:your.email@domain.com">
+  <a href="mailto:shreyansbehera84@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://calendly.com/yourprofile">
-    <img src="https://img.shields.io/badge/Calendly-006BFF?style=for-the-badge&logo=calendly&logoColor=white">
+  <a href="https://linkedin.com/in/shreyans-behera-653aa5337">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">
   </a>
 </p>
