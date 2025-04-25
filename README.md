@@ -81,14 +81,6 @@
 </table>
 
 
-### Libraries & Frameworks
-<p align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white">
-</p>
-
 ## 🤖 My Data Science Workflow
 
 ```mermaid
@@ -115,9 +107,6 @@ graph TD
 </p>
 
 <!-- GitHub Activity Graph -->
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=CarvedCoder&theme=react-dark&hide_border=true&bg_color=00000000" alt="CarvedCoder's Contribution Graph">
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarvedCoder&layout=compact&theme=radical&hide_border=true&bg_color=00000000&hide=html,css,scss,php&langs_count=6">
