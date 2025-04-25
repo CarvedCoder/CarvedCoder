@@ -108,18 +108,19 @@
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white">
 </p>
 
-##  My Data Science Workflow
-'''mermaid
+## 🤖 My Data Science Workflow
+
+```mermaid
 graph TD
-A[Data Collection] -->B[Data Cleaning]
-B --> C[Exploratory Analysis]
-C --> D[Feature Engineering]
-D --> E[Model Training]
-E --> F[Model Evaluation]
-F --> G[Deployment]
-G --> H[Monitoring]
-H -->|Feedback Loop| A
-'''
+  A[Data Collection] --> B[Data Cleaning]
+  B --> C[Exploratory Analysis]
+  C --> D[Feature Engineering]
+  D --> E[Model Training]
+  E --> F[Model Evaluation]
+  F --> G[Deployment]
+  G --> H[Monitoring]
+  H -->|Feedback Loop| A
+```
 
 ## 📊 GitHub Analytics
 
