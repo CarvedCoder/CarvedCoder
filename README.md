@@ -108,10 +108,6 @@ graph TD
 
 <!-- GitHub Activity Graph -->
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarvedCoder&layout=compact&theme=radical&hide_border=true&bg_color=00000000&hide=html,css,scss,php&langs_count=6">
-</p>
-
 
 ## 📫 Let's Connect
 
