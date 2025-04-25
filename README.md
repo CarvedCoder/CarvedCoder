@@ -14,23 +14,6 @@
   </a>
 </p>
 
-## 🚀 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/CarvedCoder/project-name">
-    <img align="center" src="https://github.com/CarvedCoder/Redis_Build?username=CarvedCoder&repo=project-name&theme=radical&hide_border=true&bg_color=00000000" />
-  </a>
-  <a href="https://github.com/CarvedCoder/another-project">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarvedCoder&repo=another-project&theme=radical&hide_border=true&bg_color=00000000" />
-  </a>
-</div>
-
-<p align="center">
-  <a href="https://github.com/CarvedCoder?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%20Projects-22D3EE?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</p>
-
 <!-- Social & Platform Badges -->
 <p align="center">
   <a href="https://linkedin.com/in/shreyans-behera-653aa5337">
