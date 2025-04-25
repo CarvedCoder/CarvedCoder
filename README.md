@@ -109,8 +109,7 @@
 </p>
 
 ##  My Data Science Workflow
-'''
-mermaid
+'''mermaid
 graph TD
 A[Data Collection] -->B[Data Cleaning]
 B --> C[Exploratory Analysis]
