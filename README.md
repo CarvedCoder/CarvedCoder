@@ -109,6 +109,8 @@
 </p>
 
 ##  My Data Science Workflow
+'''
+mermaid
 graph TD
 A[Data Collection] -->B[Data Cleaning]
 B --> C[Exploratory Analysis]
@@ -118,6 +120,7 @@ E --> F[Model Evaluation]
 F --> G[Deployment]
 G --> H[Monitoring]
 H -->|Feedback Loop| A
+'''
 
 ## 📊 GitHub Analytics
 
