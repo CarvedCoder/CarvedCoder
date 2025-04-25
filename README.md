@@ -1,6 +1,4 @@
 <div align="center">
-  <!-- Optional: Add a custom banner image here -->
-  <img src="https://your-custom-banner-url.png" alt="CarvedCoder Banner" width="800">
   
   # Hi, I'm CarvedCoder 👋
   ### Passionate Data Scientist | AI Engineer | Insight Extractor
@@ -20,7 +18,7 @@
 
 <div align="center">
   <a href="https://github.com/CarvedCoder/project-name">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarvedCoder&repo=project-name&theme=radical&hide_border=true&bg_color=00000000" />
+    <img align="center" src="https://github.com/CarvedCoder/Redis_Build?username=CarvedCoder&repo=project-name&theme=radical&hide_border=true&bg_color=00000000" />
   </a>
   <a href="https://github.com/CarvedCoder/another-project">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarvedCoder&repo=another-project&theme=radical&hide_border=true&bg_color=00000000" />
@@ -162,7 +160,7 @@ graph TD
 
 <p align="center">
   💬 Ask me about <b>machine learning, data visualization, or statistical analysis</b><br>
-  🌐 Visit my portfolio: <a href="https://your-portfolio-site.com">https://your-portfolio-site.com</a><br>
+  🌐 Visit my portfolio: <a href="https://2d-game-portfolio-carvedcoders-projects.vercel.app/">https://your-portfolio-site.com</a><br>
   📅 Open for collaboration on data science and AI projects
 </p>
 
