@@ -93,7 +93,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CarvedCoder&theme=radical&hide_border=true" alt="GitHub Streak" width="45%">
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CarvedCoder&layout=compact&theme=radical&hide_border=true&bg_color=00000000&hide=html,css,scss,php" alt="Top Languages" width="60%">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarvedCoder&layout=compact&theme=radical&hide=html%2Ccss%2Cscss%2Cphp&bg_color=00000000"
+    alt="Top Languages"
+    width="60%"
+  />
 </p>
 
 ---
