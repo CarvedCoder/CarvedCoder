@@ -90,17 +90,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CarvedCoder&show_icons=true&theme=radical&count_private=true&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="45%">
   &nbsp;
-  <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=CarvedCoder
-         &theme=radical
-         &hide_border=true
-         &layout=compact"
-    alt="GitHub Streak"
-    width="60%"
-  />
-</p>
-
 </p>
 <p align="center">
   <img
