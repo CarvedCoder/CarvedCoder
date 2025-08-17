@@ -2,9 +2,9 @@
 
   <!-- 👋 Introduction -->
   <h1>Hi, I’m <strong>CarvedCoder</strong> 👋</h1>
-  <h3>Passionate Data Scientist | AI Engineer | Insight Extractor | C/C++ Enthusiast</h3>
+  <h3>Passionate Data Scientist | AI/ML Engineer | Insight Extractor | C/C++ Enthusiast</h3>
 
-  <p>Transforming complex data into actionable business intelligence through machine learning, statistical analysis, and high-performance C/C++ development.</p>
+  <p>Transforming complex data into actionable business intelligence through machine learning, statistical analysis, and high-performance C/C++ development.Also I like to build things from scratch cause why not</p>
 
   <!-- ✨ Typing SVG -->
   <p align="center">
