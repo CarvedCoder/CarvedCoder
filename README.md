@@ -85,19 +85,30 @@
 ---
 
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CarvedCoder&show_icons=true&theme=radical&count_private=true&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="45%">
-  &nbsp;
-</p>
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarvedCoder&layout=compact&theme=radical&hide=html%2Ccss%2Cscss%2Cphp&bg_color=00000000"
-    alt="Top Languages"
-    width="60%"
-  />
-</p>
+<div align="center">
+
+  <!-- GitHub Stats Card -->
+  <img 
+       src="https://github-readme-stats.vercel.app/api?username=CarvedCoder&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true" 
+       alt="CarvedCoder's GitHub Stats" 
+       height="180px"/>
+
+  <!-- Streak Card -->
+  <img 
+       src="https://streak-stats.demolab.com?user=CarvedCoder&theme=radical&hide_border=true" 
+       alt="GitHub Streak" 
+       height="180px"/>
+
+  <!-- Top Languages Card -->
+  <img 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarvedCoder&layout=compact&theme=radical&hide=html,css,scss,php&hide_border=true&bg_color=00000000" 
+       alt="Top Languages" 
+       height="180px"/>
+
+</div>
+
 
 ---
 
