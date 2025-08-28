@@ -97,10 +97,9 @@
 
   <!-- Streak Card -->
   <img 
-       src="https://streak-stats.demolab.com?user=CarvedCoder&theme=radical&hide_border=true" 
-       alt="GitHub Streak" 
-       height="180px"/>
-
+     src="https://github-readme-streak-stats.herokuapp.com?user=CarvedCoder&theme=radical&hide_border=true" 
+     alt="GitHub Streak" 
+     height="180px"/>
   <!-- Top Languages Card -->
   <img 
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarvedCoder&layout=compact&theme=radical&hide=html,css,scss,php&hide_border=true&bg_color=00000000" 
