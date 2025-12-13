@@ -77,34 +77,51 @@ deploy(reliable_ml_infrastructure);
     <td align="center" width="50%">
       <h4>Systems & Performance</h4>
       <p>
-        C++, C<br/>
-        Linux · CMake · Git<br/>
-        CUDA (fundamentals)<br/>
-        Memory & cache optimization
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+        <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+        <img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white" />
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+        <br/>
+        <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" />
+        <img src="https://img.shields.io/badge/Memory_Optimization-444?style=flat-square" />
+        <img src="https://img.shields.io/badge/Cache_Profiling-444?style=flat-square" />
       </p>
     </td>
+
     <td align="center" width="50%">
       <h4>Machine Learning</h4>
       <p>
-        PyTorch (incl. C++ concepts)<br/>
-        TensorFlow · ONNX<br/>
-        scikit-learn · OpenCV
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+        <img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white" />
+        <br/>
+        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
       </p>
     </td>
   </tr>
+
   <tr>
     <td align="center" width="50%">
       <h4>Data & Analysis</h4>
       <p>
-        Python · NumPy · Pandas<br/>
-        SQL · R (working knowledge)
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" />
       </p>
     </td>
+
     <td align="center" width="50%">
       <h4>Infrastructure</h4>
       <p>
-        Docker · AWS (foundational)<br/>
-        Apache Spark · Hadoop
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+        <br/>
+        <img src="https://img.shields.io/badge/Apache_Spark-FF7E00?style=flat-square&logo=apachespark&logoColor=white" />
+        <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apache-hadoop&logoColor=black" />
       </p>
     </td>
   </tr>
@@ -142,18 +159,6 @@ deploy(reliable_ml_infrastructure);
 
 <hr/>
 
-<h2>What I Build</h2>
-
-<ul>
-  <li>Performance-critical ML components</li>
-  <li>Neural networks and optimizers from scratch in C++</li>
-  <li>Systems infrastructure for ML pipelines</li>
-  <li>Algorithm-heavy and data-structure–focused projects</li>
-  <li>Side projects involving systems and performance engineering</li>
-</ul>
-
-<hr/>
-
 <h2>GitHub Activity</h2>
 
 <div align="center">
@@ -169,29 +174,6 @@ deploy(reliable_ml_infrastructure);
 
 <hr/>
 
-<h2>Collaboration</h2>
-
-<div align="center">
-  <p>
-    Interested in collaborating on:
-    <br/>C++ systems and performance-oriented projects
-    <br/>ML inference and optimization
-    <br/>Systems-level tooling
-    <br/>Implementing research papers from scratch
-    <br/>Algorithmic and competitive programming projects
-  </p>
-
-  <p>
-    <a href="mailto:shreyansbehera84@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-  </p>
-</div>
-
-<hr/>
-
 <p align="center">
-  <em>
-    “The most reliable way to understand a system is to build it.”
-  </em>
+  <em>“The most reliable way to understand a system is to build it.”</em>
 </p>
