@@ -1,5 +1,15 @@
 # Shreyans Behera
 
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shreyans-behera-653aa5337)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Shreyans_Behera/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://kaggle.com/carvedcoder)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://2d-game-portfolio-carvedcoders-projects.vercel.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreyansbehera84@gmail.com)
+
+</div>
+
 **ML Systems Engineer | C/C++ | Performance Engineering**
 
 Building machine learning systems from first principles—neural networks in pure C++, tensor operations with manual memory layout, and inference pipelines optimized at the instruction level. I focus on understanding what happens beneath the abstractions.
@@ -71,6 +81,19 @@ I want to work on systems where correctness matters, performance is measured, an
 **Understanding over usage.** Knowing why something works enables debugging when it doesn't.
 
 **Fundamentals over frameworks.** Frameworks change; algorithms, data structures, and systems principles don't.
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=CarvedCoder&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" alt="GitHub Stats" height="165">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=CarvedCoder&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarvedCoder&layout=compact&theme=tokyonight&hide=html,css,scss,php&hide_border=true&langs_count=8" alt="Top Languages">
+
+</div>
 
 ---
 
